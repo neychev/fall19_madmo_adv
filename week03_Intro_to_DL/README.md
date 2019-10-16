@@ -1,5 +1,5 @@
 week03 practice Into to DL with PyTorch:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/fall19_madmo_adv/blob/master/week03_Intro_to_DL/week03_intro_to_pytorch.ipynb)
 
 
 __Further readings__:
