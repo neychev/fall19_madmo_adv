@@ -2,7 +2,7 @@ week04 practice:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/fall19_madmo_adv/blob/master/week04_DL_part_2/week04_PyTorch_and_Dataloaders.ipynb)
 
 Dataloaders official tutorial:
-(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/fall19_madmo_adv/blob/master/week04_DL_part_2/data_loading_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/fall19_madmo_adv/blob/master/week04_DL_part_2/data_loading_tutorial.ipynb)
 
 __Further readings__:
 * [en] Notes on vector and matrix derivatives: http://cs231n.stanford.edu/vecDerivs.pdf
